@@ -1,0 +1,11 @@
+E:\FTFL\BCC\January\29-01-2015\Project\CommunityMedicineSystem\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.BLL.dll
+E:\FTFL\BCC\January\29-01-2015\Project\CommunityMedicineSystem\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.BLL.pdb
+E:\FTFL\BCC\January\29-01-2015\Project\CommunityMedicineSystem\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.DAL.dll
+E:\FTFL\BCC\January\29-01-2015\Project\CommunityMedicineSystem\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.DAO.dll
+E:\FTFL\BCC\January\29-01-2015\Project\CommunityMedicineSystem\CommunityMedicineSystem.BLL\bin\Debug\Newtonsoft.Json.dll
+E:\FTFL\BCC\January\29-01-2015\Project\CommunityMedicineSystem\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.DAL.pdb
+E:\FTFL\BCC\January\29-01-2015\Project\CommunityMedicineSystem\CommunityMedicineSystem.BLL\bin\Debug\CommunityMedicineSystem.DAO.pdb
+E:\FTFL\BCC\January\29-01-2015\Project\CommunityMedicineSystem\CommunityMedicineSystem.BLL\bin\Debug\Newtonsoft.Json.xml
+E:\FTFL\BCC\January\29-01-2015\Project\CommunityMedicineSystem\CommunityMedicineSystem.BLL\obj\Debug\CommunityMedicineSystem.BLL.csprojResolveAssemblyReference.cache
+E:\FTFL\BCC\January\29-01-2015\Project\CommunityMedicineSystem\CommunityMedicineSystem.BLL\obj\Debug\CommunityMedicineSystem.BLL.dll
+E:\FTFL\BCC\January\29-01-2015\Project\CommunityMedicineSystem\CommunityMedicineSystem.BLL\obj\Debug\CommunityMedicineSystem.BLL.pdb

@@ -1,0 +1,5 @@
+E:\FTFL\BCC\January\29-01-2015\Project\CommunityMedicineSystem\CommunityMedicineSystem.DAO\bin\Debug\CommunityMedicineSystem.DAO.dll
+E:\FTFL\BCC\January\29-01-2015\Project\CommunityMedicineSystem\CommunityMedicineSystem.DAO\bin\Debug\CommunityMedicineSystem.DAO.pdb
+E:\FTFL\BCC\January\29-01-2015\Project\CommunityMedicineSystem\CommunityMedicineSystem.DAO\obj\Debug\CommunityMedicineSystem.DAO.dll
+E:\FTFL\BCC\January\29-01-2015\Project\CommunityMedicineSystem\CommunityMedicineSystem.DAO\obj\Debug\CommunityMedicineSystem.DAO.pdb
+E:\FTFL\BCC\January\29-01-2015\Project\CommunityMedicineSystem\CommunityMedicineSystem.DAO\obj\Debug\CommunityMedicineSystem.DAO.csprojResolveAssemblyReference.cache
